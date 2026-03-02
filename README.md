@@ -61,9 +61,10 @@ Functional AI career guidance bot
 
 Demonstrates NLTK usage, keyword matching, and category mapping
 
-## Author 
-
-Rushita Bhosale
 Expandable to dataset-based or UI-based versions
 
 Perfect for a mini project submission in internship or academic settings
+
+## Author 
+
+Rushita Bhosale
